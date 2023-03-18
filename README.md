@@ -1,1 +1,1 @@
-# Assement-verdict
+# personal-exercises
